@@ -13,6 +13,5 @@ $ touch templates/demo/0/{docker-compose.yml,rancher-compose.yml} templates/demo
 ```
 ### Add Host
 ```
-#For development environment, we will add the same host running the Rancher server as a host in Rancher.
-
+#
 ```

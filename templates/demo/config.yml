@@ -1,0 +1,9 @@
+    ---
+    name: Demo App
+    description: >
+      A Demo App which does almost nothing of any practical value.
+    version: 0.0.1-rancher1
+    category: Toy Apps
+    maintainer: Srinivasa Rao Sodavaram <rao.srinivasa.s@gmail.com>
+    license: Apache2
+    projectURL: https://github.com/c2vasu/rancher-cattle-demo
