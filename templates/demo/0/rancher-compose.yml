@@ -1,6 +1,4 @@
-mywordpress:
-  scale: 2
-wordpresslb:
+frontendlb:
   scale: 1
   load_balancer_config:
     haproxy_config: {}
@@ -10,5 +8,7 @@ wordpresslb:
     unhealthy_threshold: 3
     healthy_threshold: 2
     response_timeout: 2000
+frontend:
+  scale: 2
 database:
   scale: 1
